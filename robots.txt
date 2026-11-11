@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /topsel-school/
+Sitemap: https://devnos.github.io/topsel-school/sitemap.xml
